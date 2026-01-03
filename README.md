@@ -26,8 +26,8 @@ This project allows users to **store, search, update, and delete contacts** usin
 ---
 
 ## Project Structure
+```text
 contact-book/
-│
-├── contact_book.py # Main Python program
-├── contacts.csv # Stores contact data (auto-created)
-└── README.md # Project documentation
+├── contact_book.py    # Main Python program
+├── contacts.csv       # Stores contact data (auto-created)
+└── README.md          # Project documentation
